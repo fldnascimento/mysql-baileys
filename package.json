@@ -15,7 +15,6 @@
 		"build": "tsc",
 		"prepack": "tsc",
 		"prepare": "tsc",
-		"postinstall": "npm install && tsc",
 		"build:tsc": "tsc",
 		"build:docs": "typedoc",
 		"build:all": "tsc && typedoc",
